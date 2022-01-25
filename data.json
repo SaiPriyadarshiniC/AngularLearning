@@ -1,0 +1,52 @@
+{
+  "txns": [
+    {
+      "id": 1,
+      "header": "Salary",
+      "amount": 67000,
+      "type": "CREDIT"
+    },
+    {
+      "id": 2,
+      "header": "House Rent",
+      "amount": 70000,
+      "type": "DEBIT"
+    },
+    {
+      "id": 3,
+      "header": "FD Interest",
+      "amount": 7000,
+      "type": "DEBIT"
+    },
+    {
+      "id": 4,
+      "header": "Car Fuel",
+      "amount": 5000,
+      "type": "CREDIT"
+    },
+    {
+      "id": 5,
+      "header": "Mobile and Net Bill",
+      "amount": 6000,
+      "type": "DEBIT"
+    },
+    {
+      "id": 6,
+      "header": "RD Interest",
+      "amount": 4000,
+      "type": "DEBIT"
+    },
+    {
+      "id": 3434,
+      "header": "BirthdayParty",
+      "type": "DEBIT",
+      "amount": 4534
+    },
+    {
+      "id": 7,
+      "header": "Electricity Bill",
+      "type": "DEBIT",
+      "amount": 456
+    }
+  ]
+}
